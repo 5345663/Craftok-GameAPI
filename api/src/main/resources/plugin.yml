@@ -1,0 +1,11 @@
+name: Craftok-GameAPI
+author: Sithey
+version: 1.0
+main: eu.craftok.gameapi.GameAPI
+depend:
+  - Craftok-Core
+commands:
+  start:
+  stats:
+  rejouer:
+    aliases: [re, replay]
